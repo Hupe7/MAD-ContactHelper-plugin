@@ -7,3 +7,4 @@ mad_user = your mad username
 mad_password = your mad password 
 
 devices = Leveln1, Leveln2 ... just input the names og your devices
+devices = leveln1, acc2, acc3 #just input the names og your devices
